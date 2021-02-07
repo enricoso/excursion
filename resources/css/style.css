@@ -1,14 +1,29 @@
 html {
     text-align: center;
     background-color: black;
-}
-h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#firstTitle {
     font-weight: normal;
     font-size: 50px;
     color: white;
 }
+#secondTitle {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
 a {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: aquamarine;
     font-size: 16px;
+}
+p {
+    font-size: 21px;
+    color: grey;
+}
+#footer {
+    font-size: larger;
+    text-align: right;
+    color: grey;
+    margin-bottom: 20px;
+}
