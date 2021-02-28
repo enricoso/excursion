@@ -27,9 +27,4 @@ p {
     color: grey;
     margin-bottom: 20px;
 }
-@media only screen and (max-width: 375px) {
-    video {
-        width: 100%;
-        height: auto;
-    }
-}
+
