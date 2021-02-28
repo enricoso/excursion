@@ -27,3 +27,9 @@ p {
     color: grey;
     margin-bottom: 20px;
 }
+@media only screen and (max-width: 600px) {
+    p {
+        width: 100%;
+        height: auto;
+    }
+}
