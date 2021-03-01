@@ -27,4 +27,8 @@ p {
     color: grey;
     margin-bottom: 20px;
 }
+.responsive {
+width: 100%;
+height: auto;
+}
 
